@@ -20,7 +20,7 @@ body {
 }
 
 .navbar-logo img {
-    height: clamp(80px, 8vw, 110px);
+    height: clamp(50px, 8vw, 110px);
     width: auto;
     padding-left: 5px;
     padding-right: 50px;
