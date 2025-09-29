@@ -1,1 +1,1 @@
-# Glamor-
+# Glamore
